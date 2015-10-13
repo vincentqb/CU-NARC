@@ -20,7 +20,7 @@ Fall 2015 Schedule - Mudd 210 at 10:30 AM every Wednesday
 
   - 10/07:  Zhi Zhou - Two-point boundary value problems involving fractional order differential operators 
   - 10/14:  Colton Conroy - Discontinuous Galerkin (DG) modified basis methods 
-  - 10/21: 
+  - 10/21:  Nan Chen (Courant) - Model reduction and data assimilation techniques
   - 10/28: 
   - 11/04:  
   - 11/11:  
