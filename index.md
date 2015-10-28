@@ -24,7 +24,7 @@ Fall 2015 Schedule - Mudd 210 at 10:30 AM every Wednesday
     [talk 1](talks/DG_Talk_1.pdf), [talk 2](talks/DG_Talk_2.pdf), 
     [talk 3](talks/DG_Talk_3.pdf))
   - 10/21:  Nan Chen (Courant) - Model reduction and data assimilation techniques
-  - 10/28: 
+  - 10/28:  Vincent Quenneville-Bélair - From the code -- A FEniCS rises
   - 11/04:  
   - 11/11:  
   - 11/18:  
