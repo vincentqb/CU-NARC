@@ -25,10 +25,10 @@ Fall 2015 Schedule - Mudd 210 at 10:30 AM every Wednesday
     [talk 3](talks/DG_Talk_3.pdf))
   - 10/21:  Nan Chen (Courant) - Model reduction and data assimilation techniques
   - 10/28:  Vincent Quenneville-Bélair - From the code -- A FEniCS rises
-  - 11/04:  
-  - 11/11:  
+  - 11/04:  --
+  - 11/11:  Cagan Ozen - Numerical simulation of stochastic evolution equations
   - 11/18:  
-  - 11/25:  
+  - 11/25:  Su Hang - Linear programming and the simplex method
   - 12/02:  
   - 12/09:  
 
