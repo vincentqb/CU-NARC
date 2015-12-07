@@ -30,7 +30,7 @@ Fall 2015 Schedule - Mudd 210 at 10:30 AM every Wednesday
   - 11/18:  
   - 11/25:  Su Hang - Linear programming and the simplex method
   - 12/02:  
-  - 12/09:  
+  - 12/09:  Rachael Keller - Evolution of L&egrave;vy Foraging Hypothesis
 
 If you are interested in giving a talk please pick an available date on the 
 [calendar](https://docs.google.com/a/columbia.edu/spreadsheets/d/1Cr-VG28HsSqJj69Wy_mFbq12PJG9W_6j8qAKEAhsDRc/edit?usp=sharing) (note that you need permission to post on this calendar so if you
