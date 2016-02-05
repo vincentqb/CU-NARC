@@ -6,8 +6,10 @@ someone leads the discussion on:
  - their own research,
  - a topic of interest including classical papers in the field, and
  - a recent article of interest.
-If you are interested in joining us please email the [organizers]
-(mailto:vq2111@columbia.edu).
+
+If you are interested in joining us, please email the [organizers]
+(mailto:vq2111@columbia.edu). 
+You can also join the [google group](https://groups.google.com/forum/#!forum/columbia-numerics).
 
 ## Suggested Topics
 
