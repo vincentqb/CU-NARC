@@ -16,7 +16,7 @@ If you are interested in joining us please email the [organizers]
 
 ## Schedule
 
-Spring 2016 - Thursdays at 2:30 pm in Mudd 1106B
+Spring 2016 - Thursdays at 2:30 pm in Mudd 1106B.
 
 You can see the 
 [detailed schedule](https://docs.google.com/a/columbia.edu/spreadsheets/d/1waEWaAOWpiQ-e0nVwgldSbe6qCfLeMk5QJVmzMH5H4Y/edit?usp=sharing),
