@@ -7,9 +7,8 @@ someone leads the discussion on:
  - a topic of interest including classical papers in the field, and
  - a recent article of interest.
 
-If you are interested in joining us, please email the [organizers]
-(mailto:vq2111@columbia.edu). 
-You can also join the [google group](https://groups.google.com/forum/#!forum/columbia-numerics).
+If you are interested in the club, please join the [google group](https://groups.google.com/forum/#!forum/columbia-numerics).
+You can also contact the [organizers](mailto:vq2111@columbia.edu). 
 
 ## Suggested Topics
 
